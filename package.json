@@ -3,7 +3,8 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "minimist": "1.2.6"
+    "minimist": "1.2.6",
+		"handlebars": "4.7.6"
   },
   "scripts": {
     "start": "react-scripts start",
